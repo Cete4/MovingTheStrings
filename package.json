@@ -1,0 +1,14 @@
+{
+  "name": "movingthestrings",
+  "version": "1.0.0",
+  "description": "A small node project to run some automatic actions every so often. Most of this won't be uploaded to git since it will have secret info but this project will be to at least show it is a work in progress.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^19.2.2"
+  }
+}
